@@ -33,4 +33,5 @@
             android:text="Login"/>
     </TableRow>
 
+    <include layout="@layout/title"/>
 </TableLayout>
